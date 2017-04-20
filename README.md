@@ -10,3 +10,5 @@ Need to make room for brown box - new project.
 
 don't use codepen any more for the a-frame stuff, use local like everything else.
 built the prototype model offline first
+
+the model has no visual identity. Need to sort this out, as it seems to be holding up progress
